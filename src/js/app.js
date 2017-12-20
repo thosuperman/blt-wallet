@@ -9898,23 +9898,22 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
                 dash: {
                     messagePrefix: '\x19DASH Signed Message:\n',
                     bip32: {
-                        public: 0x0488b21e,
-                        private: 0x0488ade4
+                        public: 0x02fe52cc,
+                        private: 0x02fe52f8
                     },
-                    pubKeyHash: 76,
-                    scriptHash: 16,
-                    wif: 204,
-                    bip44: 0x05,
+                    pubKeyHash: 0x4c,
+                    scriptHash: 0x10,
+                    wif: 0xcc,
                     dustThreshold: 5460
                 },
                 dashtestnet: {
                     messagePrefix: '\x19DASH Signed Message:\n',
                     bip32: {
-                        public: 0x3a8061a0,
-                        private: 0x3a805837
+                        public: 0x3a805837,
+                        private: 0x3a8061a0
                     },
-                    pubKeyHash: 139,
-                    scriptHash: 19,
+                    pubKeyHash: 0x8c,
+                    scriptHash: 0x13,
                     wif: 0xef,
                     dustThreshold: 5460
                 }
