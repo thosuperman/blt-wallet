@@ -68,7 +68,7 @@ var app = new Vue({
         buildTransaction: function (send_amount, recipient_address, inputs, tx, keyPair) {
             var spend_amount = 0.0;
             var num_inputs = 0;
-            const fee = .001;
+            const fee = 0.002;
 
             inputs.sort(function (a, b) {
                 return parseFloat(a.value) - parseFloat(b.value)
