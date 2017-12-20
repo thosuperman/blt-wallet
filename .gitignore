@@ -1,0 +1,16 @@
+# IDE & DevelopmentTool
+/.idea
+/nbproject/private/
+/nbproject/
+/.bundle
+
+# environment
+.env
+
+# OS
+.DS_Store
+sh.exe.stackdump
+
+# logs & tmp file
+*.swp
+!.gitkeep

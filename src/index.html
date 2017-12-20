@@ -124,11 +124,11 @@
 						<tr v-for="tx in transactions">
 							<td v-if="tx.vin[0].addr == address">
 								<i class="medium circular inverted red arrow right icon"></i>
-								<i v-if="tx.confirmations < 1" class="medium hourglass start icon">
+								<i v-if="tx.confirmations < 1" class="medium hourglass start icon"></i>
 							</td>
 							<td v-else>
 								<i class="medium circular inverted green arrow left icon"></i>
-								<i v-if="tx.confirmations < 1" class="medium hourglass start icon">
+								<i v-if="tx.confirmations < 1" class="medium hourglass start icon"></i>
 							</td>
 							<td><span :data-livestamp="tx.time"></span></td>
 							<td><a :href="baseURL + '/tx/' + tx.txid" target="_blank">{{ tx.txid }}</a></td>
