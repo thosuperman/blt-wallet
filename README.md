@@ -12,6 +12,6 @@ Compatible with Android 7.0+ WebView (Chrome v51) and Firefox Focus 2.3.
 
 - Bitpay, Litecore, Siam P.M. Group for the Insight API
 - cryptocompare.com for the prices
-- sereneblue[blt-wallet](https://github.com/sereneblue/blt-wallet)
+- sereneblue [blt-wallet](https://github.com/sereneblue/blt-wallet)
 - Icon from Clipart Library, http://clipart-library.com/clipart/zcXeXaX9i.htm
 - Corsica_S for the ding audio sound, https://freesound.org/people/Corsica_S/sounds/91926/
