@@ -1,16 +1,17 @@
-# BLT Wallet
+# TWallet
 
-An open source testnet web wallet for Bitcoin and Litecoin
+An open source testnet web wallet for Bitcoin, Litecoin, DASH
 
-![blt-wallet screenshot](https://raw.githubusercontent.com/sereneblue/blt-wallet/master/blt-wallet.png)
+![blt-wallet screenshot](https://raw.githubusercontent.com/thosuperman/blt-wallet/master/blt-wallet.png)
 
-If you'd like to see blt-wallet in action, click [here](https://sereneblue.github.io/blt-wallet/). You can also save blt-wallet for local usage. Use the index.html file located in the `src` folder.
+If you'd like to see TWallet in action, click [here](https://test-wallet.thonguyen.net). You can also save TWallet for local usage. Use the index.html file located in the `src` folder.
 
 Compatible with Android 7.0+ WebView (Chrome v51) and Firefox Focus 2.3.
 
 ## Special Thanks
 
-- Bitpay and Litecore for the Insight API
+- Bitpay, Litecore, Siam P.M. Group for the Insight API
 - cryptocompare.com for the prices
-- BLT Wallet icon from Clipart Library, http://clipart-library.com/clipart/zcXeXaX9i.htm
+- sereneblue[blt-wallet](https://github.com/sereneblue/blt-wallet)
+- Icon from Clipart Library, http://clipart-library.com/clipart/zcXeXaX9i.htm
 - Corsica_S for the ding audio sound, https://freesound.org/people/Corsica_S/sounds/91926/
