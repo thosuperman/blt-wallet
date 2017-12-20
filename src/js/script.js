@@ -100,6 +100,9 @@ var app = new Vue({
             return tx.buildIncomplete().toHex();
         },
         checkKey: function (priv_key) {
+            if (window.location.hash[1] == "d") {
+                this.current = "dash";
+            }
             var network_v = blt.networks.testnet;
             if (this.current == "litecoin") {
                 network_v = blt.networks.ltestnet;
